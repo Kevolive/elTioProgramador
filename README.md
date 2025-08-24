@@ -2,12 +2,12 @@
 
 Bienvenido al proyecto Web Course, una aplicación web para la gestión de cursos en línea de HTML.
 
-## 🚀 Características principales
+##  Características principales
 
 - Gestión de cursos 
 - Interfaz de usuario intuitiva y responsiva
 - Autenticación de usuarios
-- Panel de administración
+- Panel de visualización de cursos
 - Categorización de cursos
 
 ## 🛠️ Tecnologías utilizadas
@@ -15,7 +15,7 @@ Bienvenido al proyecto Web Course, una aplicación web para la gestión de curso
 - Frontend: HTML5, CSS3, JavaScript
 
 
-## 📦 Instalación
+##  Instalación
 
 1. Clona el repositorio:
    ```bash
@@ -35,6 +35,6 @@ Bienvenido al proyecto Web Course, una aplicación web para la gestión de curso
 
 
 
-## ✉️ Contacto
+##  Contacto
 
 Si tienes preguntas o sugerencias, no dudes en contactarnos en kevinolivella@gmail.com
